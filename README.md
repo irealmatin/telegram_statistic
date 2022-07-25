@@ -12,5 +12,5 @@ then run this command :
 ```
 python src/chat_statistics/stats.py
 ```
-to generate a word cloud of json data in `DATA_DIR`
-
+to generate a word cloud of json data in `DATA_DIR`    
+    
