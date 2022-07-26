@@ -146,3 +146,4 @@ if __name__ == "__main__":
 
     chat_graph = ChatGraph(chat_json=args.chat_json)
     chat_graph.generate_graph(output_graph_path=args.output_graph_path, top_n=args.top_n)
+    
